@@ -22,3 +22,12 @@ Conference on College Composition and Communication
 ## License
 
 All contents are provided for **educational, non-commercial use only** under fair use principles. See [LICENSE](./LICENSE.txt) for details.
+
+## Maintainer
+
+Created and curated by **Rodrigo Gomez**  
+Founder, **DRMZ Academy** | Faculty, San Diego Miramar College  
+📧 rgomez001@sdccd.edu  
+🔗 [github.com/rodg-drmz/web3-rhetoric](https://github.com/rodg-drmz/web3-rhetoric)
+
+This project is part of DRMZ’s broader mission to foster AI and Web3 literacy through rhetorical inquiry, open education, and ethical design. DRMZ Academy is a non-commercial initiative committed to providing open, free, and critical Web3 educational resources for learners and institutions alike.
