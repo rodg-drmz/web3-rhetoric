@@ -1,0 +1,14 @@
+This repository includes publicly available working papers and educational materials from:
+
+The Modern Language Association of America (MLA)  
+The Conference on College Composition and Communication (CCCC)
+
+© 2023–2024 MLA and CCCC, all rights reserved by the original authors.
+
+These documents are included here under Fair Use for educational, non-commercial purposes only. No modifications have been made to the original content beyond formatting for accessibility.
+
+Original source: https://aiandwriting.hcommons.org
+
+Redistribution or commercial use is not permitted without permission from the copyright holders.
+
+If you're an author or rights holder and would like your materials removed or modified, please contact the repository maintainer.
